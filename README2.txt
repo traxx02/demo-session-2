@@ -1,3 +1,3 @@
 Readme2 file new commit!
 UPDATE HERE!!!
-Update from main branch for conflict!
+Update for merge conflict from another branch!
